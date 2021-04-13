@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Suhan",
+      "orderNumber": "123",
+      "purchaseDate": "2021-03-16",
+      "totalAmount": 150,
+      "itemName": "Pencil",
+      "qty": "10",
+      "pricePerUnit": "15",
+      "id": 1
+    },
+    {
+      "name": "asha",
+      "orderNumber": "123",
+      "purchaseDate": "2021-03-26",
+      "totalAmount": 20,
+      "itemName": "eraser",
+      "qty": "4",
+      "pricePerUnit": "5",
+      "id": 2
+    },
+    {
+      "name": "Nivas",
+      "orderNumber": "200",
+      "purchaseDate": "2021-03-25",
+      "totalAmount": 2400,
+      "itemName": "Toy-Car",
+      "qty": "2",
+      "pricePerUnit": "1200",
+      "id": 3
+    }
+  ]
+}
